@@ -1,0 +1,204 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "Laptop HP",
+      "address": "Ibarra",
+      "city": "Ibarra",
+      "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+    },
+    {
+      "id": 2,
+      "name": "Celular Sony",
+      "address": "Calle Madrid, 21",
+      "city": "Quito",
+      "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+    },
+    {
+      "id": 3,
+      "name": "Antena Wifi",
+      "address": "Julio Miguel Aguinaga",
+      "city": "Cuenca",
+      "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+    },
+    {
+      "id": 4,
+      "name": "Nintendo Switch",
+      "address": "Centro",
+      "city": "Atuntaqui",
+      "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+    },
+    {
+      "id": 5,
+      "name": "Play station 5 ",
+      "address": "Maryl Street",
+      "city": "Quito",
+      "openingHours": "10:00 - 14:00 and 17:00 - 20:30"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Libros"
+    },
+    {
+      "id": 2,
+      "name": "Electronicos"
+    },
+    {
+      "id": 3,
+      "name": "Computadoras"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "EL hombre de arena",
+      "price": 45,
+      "description": "Jurek Walter está considerado el asesino en serie más peligroso y mortal de la historia de Suecia. Aunque lleva trece años encerrado en un módulo de máxima seguridad de un psiquiátrico, la policía nunca ha podido resolver sus crímenes ni dar con sus víctimas. Pero cuando el joven Mikael Kohler-Frost, la última de estas, aparece una madrugada más muerto que vivo, el servicio secreto y la policía judicial, con el comisario Joona Linna a la cabeza, unen fuerzas y retoman el caso decididos a resolverlo de una vez por todas, convencidos de que Jurek ha contado siempre con la colaboración de un cómplice.",
+      "categoryId": 1,
+      "stock": 6,
+      "img": "./assets/img/hombre_de_arena.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Manual de autocontrol del enojo",
+      "price": 5,
+      "description": "Tratamiento Cognitivo-Conductual es un programa de intervención terapéutica, con base en estrategias cognitivo-conductuales, que permite controlar los episodios de enojo –con y sin agresión– en niños de entre 9 y 13 años de edad. Manual de autocontrol del enojo es un programa de intervención terapéutica, con base en estrategias cognitivo-conductuales, que permite controlar los episodios de enojo –con y sin agresión– en niños de nueve a 13 años de edad. Enseñar a los niños a emplear técnicas de relajación, autoinstrucciones y técnicas de comunicación que ayuden a demostrar la emoción de enojo sin agresión..",
+      "categoryId": 1,
+      "stock": 9,
+      "img": "./assets/img/manual_enojo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Los renglones perdidos de Dios",
+      "price": 17,
+      "description": "Alice Gould es ingresada en un sanatorio mental. En su delirio, cree ser una investigadora privada a cargo de un equipo de detectives dedicados a esclarecer complicados casos. Según una carta de su medico particular, la realidad es otra: su paranoica obsesión es atentar contra la vida de su marido. La extrema inteligencia de esta mujer y su actitud aparentemente normal confundirán a los medicos hasta el punto de no saber a ciencia cierta si Alice ha sido ingresada injustamente o en realidad padece un grave y peligroso trastorno psicológico.",
+      "categoryId": 1,
+      "stock": 6,
+      "img": "./assets/img/renglones _dios.jpg"
+    },
+    {
+      "id": 4,
+      "name": "El último deseo",
+      "price": 19,
+      "description": "Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de monstruos en una tierra de magia y maravilla: con sus dos espadas al hombro -la de acero para hombres, y la de plata para bestias- da cuenta de estriges, manticoras, grifos, vampiros, quimeras y lobisomes, pero sólo cuando amenazan la paz. Irónico, cínico, descreído y siempre errante, sus pasos lo llevan de pueblo en pueblo ofreciendo sus servicios, hallando las más de las veces que los auténticos monstruos se esconden bajo rostros humanos. ",
+      "categoryId": 1,
+      "stock": 9,
+      "img": "./assets/img/ultimo_deseo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "La espada del destino",
+      "price": 399,
+      "description": "Tan pronto puede uno tener que meterse hasta el cuello en un estercolero para eliminar a la bestia carroñera que amenaza la ciudad, intentado no atrapar una infección incurable, como se puede encontrar unido a la cacería de uno de los últimos dragones, en la que la cuestión no es si los cazadores conseguirán matar a la pobre bestia, sino qué pasará cuando tengan que repartirse el botín. Magos, príncipes, estarostas, druidas, dríadas, juglares y criaturas de todo pelaje pueblan esta tierra, enzarzados en conflictos de supervivencia, codicia y amor, y entre ellos avanza, solitario, el brujo Geralt de Rivia.",
+      "categoryId": 1,
+      "stock": 10,
+      "img": "./assets/img/espada_destino.jpg"
+    },
+    {
+      "id": 6,
+      "name": "La sangre de los elfos",
+      "price": 7,
+      "description": "Se acerca el Tiempo del Invierno Blanco y de la Luz Blanca. El Tiempo de la Locura y el Tiempo del Odio, el Tiempo del Fin. El mundo morirá entre la escarcha y resucitará de nuevo junto con el nuevo sol. Resucitará de entre la Antigua Sangre, de Hen Ichaer, de la semilla sembrada. De la semilla que no germina sino que estalla en llamas. ¡Así será! ¡Contemplad las señales! Qué señales sean, yo os diré: primero se derramará sobre la tierra la sangre de los Aen Seidhe, la Sangre de los Elfos…. es el gran renovador de la literatura fantástica.",
+      "categoryId": 1,
+      "stock": 9,
+      "img": "./assets/img/sangre_elfos.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tiempo de odio",
+      "price": 32,
+      "description": "Decir que la conocí sería una exageración. Pienso que, excepto el brujo y la hechicera, nadie la conoció de verdad jamás. Cuando la vi por vez primera no me causó especial impresión, incluso pese a las extraordinarias circunstancias que lo acompañaron. Sé de algunos que han afirmado que al instante, a primera vista, percibieron el hálito de la muerte que seguía a esta muchacha. A mí sin embargo me pareció completamente normal, y ya por entonces sabía yo que no era normal, por eso me esforcé en mirar, descubrir, percibir lo extraordinario en ella. Pero nada vi y nada percibí.",
+      "categoryId": 1,
+      "stock": 9,
+      "img": "./assets/img/tiempo_odio.jpg"
+    },
+    {
+      "id": 8,
+      "name": "El Imperio Final",
+      "price": 20,
+      "description": "Durante mil años han caído cenizas del cielo. Durante mil años nada ha florecido. Durante mil años los skaa han sido esclavizados y viven en la miseria, sumidos en un miedo inevitable. Durante mil años el Lord Legislador ha reinado con poder absoluto, dominando gracias al terror, a sus poderes y a su inmortalidad, ayudado por «obligadores» e «inquisidores», junto a la poderosa magia de la alomancia. Pero los nobles a menudo han tenido trato sexual con jóvenes skaa y, aunque la ley lo prohíbe, algunos de sus bastardos han sobrevivido y heredado los poderes alománticos: son los «nacidos de la bruma» (mistborn).",
+      "categoryId": 1,
+      "stock": 9,
+      "img": "./assets/img/imperio_final.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "pato",
+      "password": "pato"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "Patoche152",
+      "date": "07/03/1998",
+      "shippingAddress": "Atuntaqui",
+      "city": "Atuntaqui",
+      "pickup": true
+    },
+    {
+      "name": "Patoche152",
+      "shippingAddress": "",
+      "city": "",
+      "date": "10/12/2021",
+      "isDelivery": true,
+      "id": 2
+    },
+    {
+      "name": "-- Nombre --",
+      "shippingAddress": "-- Dirección --",
+      "city": "-- Ciudad --",
+      "date": "10/12/2021",
+      "isDelivery": true,
+      "id": 3
+    },
+    {
+      "name": "Patito",
+      "shippingAddress": "Imbabura",
+      "city": "Atuntaqui",
+      "date": "10/12/2021",
+      "isDelivery": true,
+      "id": 4
+    },
+    {
+      "name": "-- Nombre --",
+      "shippingAddress": "-- Dirección --",
+      "city": "-- Ciudad --",
+      "date": "10/12/2021",
+      "isDelivery": true,
+      "id": 5
+    }
+  ],
+  "detailsOrders": [
+    {
+      "id": 1,
+      "orderId": 1,
+      "quantity": 10,
+      "productName": "Product name"
+    },
+    {
+      "details": [],
+      "orderId": 2,
+      "id": 2
+    },
+    {
+      "details": [],
+      "orderId": 3,
+      "id": 3
+    },
+    {
+      "details": [],
+      "orderId": 4,
+      "id": 4
+    },
+    {
+      "details": [],
+      "orderId": 5,
+      "id": 5
+    }
+  ]
+}
