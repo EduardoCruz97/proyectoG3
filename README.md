@@ -1,9 +1,9 @@
 
 # Proyecto Grupo 3
-Eduardo Cruz
-Patricio Narvaez
-Kevin Gomez
-Jordy Vargas
+- Eduardo Cruz
+- Patricio Narvaez
+- Kevin Gomez
+- Jordy Vargas
 
 
 ### Empezar el Curso en Youtube
